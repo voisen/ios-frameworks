@@ -84,7 +84,7 @@
 如果有任何疑问，请联系 <a style="font-size:20px" href="mailto:voisen@icloud.com">作者</a> ！
 
 
-### 赞助
+### 打赏
 
 ![微信支付](https://github.com/voisen/ios-frameworks/raw/master/source/pay/wx_pay.png)
 
