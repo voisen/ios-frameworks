@@ -74,7 +74,7 @@
 
 ### 作者
 
-- [vosion](https://github.com/voisen)
+- [voisen](https://github.com/voisen)
 - [Who's next...](#)
 
 ### 版权
