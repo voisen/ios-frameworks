@@ -29,7 +29,7 @@
 
 ### 集成帮助
 
-<font color="#f00"> 以下测试的Xcode版本为: Version 9.4 (9F1027a)</font>
+###### 以下测试的Xcode版本为: `Version 9.4 (9F1027a)`
 
 #### ffmpeg
 
