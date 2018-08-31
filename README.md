@@ -86,10 +86,9 @@
 
 ### 赞助
 
+<center> ![微信支付](https://github.com/voisen/ios-frameworks/raw/master/source/pay/wx_pay.JPG) <center>
 
-<center> ![微信支付](https://github.com/voisen/ios-frameworks/raw/master/source/pay/wx_pay.JPG)
-
-<font size="5px" color="#db5048">你的支持是我最大的动力</font></center>
+<center><font size="5px" color="#db5048">你的支持是我最大的动力</font></center>
 
 
 
