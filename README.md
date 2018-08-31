@@ -8,12 +8,13 @@
 - lame
 - ...
 
-#### 更多等你加入
+[ffmpeg-4.0.2]:https://raw.githubusercontent.com/voisen/ios-frameworks/master/frameworks/ffmpeg/4.0.2/ffmpeg-ios-4.0.2.zip
 
+#### 更多等你加入
 
 | framework  | 是否支持bitcode  | 支持架构| 下载 |
 |------------- |---------------|-------------|-------------|
-| ffmpeg | 是 |arm64 armv7 i386 x86| [4.0.2](/frameworks/ffmpeg/4.0.2/ffmpeg-ios-4.0.2.zip)<br> |
+| ffmpeg | 是 |arm64 armv7 i386 x86| [4.0.2][ffmpeg-4.0.2]<br> |
 
 
 
